@@ -1,0 +1,43 @@
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.so
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.dylib
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+
+# Executable files
+*.exe
+*.out
+*.app
+
+# Folders
+bin/
+lib/
+
+# macOS-specific ignore
+.DS_Store
+
+# Go specific
+*.exe~
+*.test
+*.prof
+
+# Dependency directories
+vendor/
+
+# IDE specific
+.idea/
+.vscode/
+*.swp
+*~
